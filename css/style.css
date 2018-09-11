@@ -1,0 +1,10 @@
+body{
+  background-color: gray;
+}
+p{
+  color: purple;
+  background-color: blue;
+}
+li{
+  display: inline;
+}
